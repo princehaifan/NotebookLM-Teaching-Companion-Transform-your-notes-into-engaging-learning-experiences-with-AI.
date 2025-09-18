@@ -1,0 +1,5 @@
+{
+  "name": "NotebookLM Teaching Companion",
+  "description": "An AI-powered teaching companion to transform educational content into engaging learning activities like timelines, crosswords, storybooks, and flashcards, inspired by experiments with NotebookLM.",
+  "requestFramePermissions": []
+}
